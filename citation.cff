@@ -4,8 +4,7 @@
 cff-version: 1.2.0
 title: Simple-G CSV to NetCDF
 message: >-
-  If you use this software, please acknowledge it as
-  below
+  "If you use this software, please acknowledge it as below"
 type: software
 authors:
   - name-particle: Kelsie
